@@ -2,6 +2,9 @@
 This repo records SNN_eye which is a python code for constructing a two-layer spiking neural network model with a cortical input 
 layer, and a layer of superior colliculus (SC) output neurons. Each layer consists of 200 neurons, uniformly distributed on 0–5 mm of the horizontal meridian of the SC motor map.
 
+Please cite this paper when using these codes:
+Alizadeh, A., Van Opstal, A.J. A spiking neural network model of the Superior Colliculus that is robust to changes in the spatial–temporal input. Sci Rep 12, 6916 (2022). https://doi.org/10.1038/s41598-022-10991-6
+
 The neuron are Adex model simulated by Brian2 simulation. Brian is a simulator for spiking neural networks. It is written in the Python programming language. 
  Brian 2 download link:  https://brian2.readthedocs.io/en/stable/introduction/install.html
 
